@@ -1,0 +1,206 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    padding: 0;
+    margin: 0 auto;
+    width: 1349px;
+}
+
+
+.container {
+    width: 1100px;
+    margin: 0 auto;
+
+}
+
+header {   
+    background-color: #007765;
+    width: 1349px;
+    position: fixed;
+    
+}
+
+.logo {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+nav {
+    float: right;
+    margin-top: 15px;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 8px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+
+.title {
+    box-sizing: border-box;
+    background: url(../img/block.png) no-repeat;
+    background-size: cover;
+    height: 403px;
+    text-align: center;
+    color: white;
+    font-size: 72px;
+    padding-top: 13%;
+}
+
+.block_theproplem{
+    background: #EEEEEE;
+    border: 1px solid transparent;
+    padding-bottom: 50px;
+    margin: 0 auto;
+}
+
+.text_h {
+    margin: 0;
+    padding-top: 48px;
+    color: #007765;
+    font-size: 64px;
+    text-align: center;   
+}
+
+p {
+    font-size: 36px;
+}
+
+.Hero {
+    box-sizing: border-box;
+    background: url(../img/hero.png) no-repeat;
+    background-size: cover;
+    height: 483px;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    padding-top: 10%;
+}
+
+
+.ppc_title {
+    margin: 0;
+    padding-top: 48px;
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+}
+
+
+.ppc_img {
+    float: left;
+    margin-right: 48px;
+}
+
+.PPC_text p {
+    font-size: 32px;
+}
+
+.last_p {
+    padding-bottom: 92px;
+}
+
+
+
+.blockteam {
+    background-color: #EEEEEE;
+    padding-top: 10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+}
+
+.wrapper h1 {
+    margin: 0;
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+    padding-top: 58px;
+    
+}
+
+.row-top {
+    display: inline-block;
+    text-align: center;
+}
+
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+figure p {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    margin-top: 5px;
+}
+
+.row-top img {
+    width: 168px;
+    height: 168px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+
+.teamname {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 20px;
+    color: #007765;
+}
+
+.row-bot  {
+    display: inline-block;
+    text-align: center;
+}
+
+.row-bot img {
+    width: 168px;
+    height: 168px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 30px;
+}
+
+footer {
+    background-color: #333333;
+    border: 1px solid transparent;
+    color: white;
+    padding-bottom: 50px;
+}
+
+footer p {
+    margin: 0;
+    position: relative;
+    color: #fff;
+    width: 450px;
+    font-size: 18px;
+    text-align: center;
+    padding-left: 30%;
+    padding-top: 50px; 
+}
